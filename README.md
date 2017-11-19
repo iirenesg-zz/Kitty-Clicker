@@ -1,6 +1,6 @@
 # Kitty-Clicker
 
-![Memory Game preview](https://github.com/iirenesg/Kitty-Clicker/blob/master/preview.jpg)
+![Kitty Clicker](https://github.com/iirenesg/Kitty-Clicker/blob/master/preview.jpg)
 
 
 A js game based on the popular Cookie Clicker by Orteil (http://orteil.dashnet.org/cookieclicker/).
